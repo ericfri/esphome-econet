@@ -27,9 +27,9 @@ esphome:
     version: v3.2.0
 preferences:
   flash_write_interval: "24h"
-wifi:
-  ap:
-captive_portal:
+# wifi:
+#   ap:
+# captive_portal:
 api:
   services:
     - service: read
